@@ -1,2 +1,2 @@
 # Names: Munyaneza Ishimwe Peace
-# Class: Year 1 D
+# Term 1 & 2 Class: Year 1 C
