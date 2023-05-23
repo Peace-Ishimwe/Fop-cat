@@ -13,7 +13,6 @@ int isPrime(int num) {
     return 1; // Prime
 }
 
-
 int main() {
     int n;
 
